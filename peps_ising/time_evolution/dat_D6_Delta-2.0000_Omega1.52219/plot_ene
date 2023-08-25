@@ -1,0 +1,5 @@
+dt=0.005
+
+p \
+"< cat output_phys_quant_* | grep '## indexnum,V,Omega,Delta,hx,hz,ene,mag,ex,ey,mz0,mz1,mx0,mx1' | sed 's/## indexnum,V,Omega,Delta,hx,hz,ene,mag,ex,ey,mz0,mz1,mx0,mx1//g'" u ($1*dt):7 ti "ene"
+pause -1

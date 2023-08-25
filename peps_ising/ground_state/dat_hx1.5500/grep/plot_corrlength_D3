@@ -1,0 +1,11 @@
+D=3
+
+set xrange [0:]
+
+p \
+"dat_corrlength_D3_hx1.5500" u (D**2*1.0/$2):(-1.0/log($4)*2), \
+"dat_corrlength_D3_hx1.5500" u (D**2*1.0/$2):(-1.0/log($5)*2), \
+"dat_corrlength_D3_hx1.5500" u (D**2*1.0/$2):(-1.0/log($6)*2), \
+"dat_corrlength_D3_hx1.5500" u (D**2*1.0/$2):(-1.0/log($7)*2), \
+"dat_corrlength_D3_hx1.5500" u (D**2*1.0/$2):(-1.0/log($8)*2)
+pause -1

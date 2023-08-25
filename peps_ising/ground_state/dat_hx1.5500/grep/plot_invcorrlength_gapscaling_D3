@@ -1,0 +1,12 @@
+D=3
+
+set xrange [0:]
+set yrange [0:]
+
+p \
+"dat_corrlength_D3_hx1.5500" u ((log($4)-log($5))*0.5):(-log($4)*0.5), \
+"dat_corrlength_D3_hx1.5500" u ((log($4)-log($5))*0.5):(-log($5)*0.5), \
+"dat_corrlength_D3_hx1.5500" u ((log($4)-log($5))*0.5):(-log($6)*0.5), \
+"dat_corrlength_D3_hx1.5500" u ((log($4)-log($5))*0.5):(-log($7)*0.5), \
+"dat_corrlength_D3_hx1.5500" u ((log($4)-log($5))*0.5):(-log($8)*0.5)
+pause -1

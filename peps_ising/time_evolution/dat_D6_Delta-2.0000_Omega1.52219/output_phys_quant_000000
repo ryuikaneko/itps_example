@@ -1,0 +1,80 @@
+## Logs: seed = 11
+## Logs: V = -1.0
+## Logs: Omega = 1.52219
+## Logs: Delta = -2.0
+## Logs: Jxy = 0.0
+## Logs: Jz = -1.0
+## Logs: hx = -1.52219
+## Logs: hz = 0.0
+## Logs: tau = 0.005
+## Logs: tau_step = 0
+## Logs: tau_full = 0.01
+## Logs: tau_full_step = 0
+## Logs: second_ST = True
+## Logs: initial_type = -1
+## Logs: input_file = output_Tn_000000.npz
+## Logs: output_file = output
+### CTM: count to convergence, sig_max =  1 0.0
+## V,Omega,Delta,hx,hz,i,norm,mx,my,mz,sqrt(sum m^2)  -1.0 1.52219 -2.0 -1.52219 0.0 0 (0.9999999999999998+0j) -0.5 0.0 0.0 0.5
+## V,Omega,Delta,hx,hz,i,norm,mx,my,mz,sqrt(sum m^2)  -1.0 1.52219 -2.0 -1.52219 0.0 1 (0.9999999999999998+0j) -0.5 0.0 0.0 0.5
+## V,Omega,Delta,hx,hz,num,norm_x,norm_y,xx[0],xx[1],yy[0],yy[1],zz[0],zz[1]  -1.0 1.52219 -2.0 -1.52219 0.0 0 (0.9999999999999997+0j) (0.9999999999999997+0j) 0.25 0.25 0.0 0.0 0.0 0.0
+## V,Omega,Delta,hx,hz,num,norm_x,norm_y,xx[0],xx[1],yy[0],yy[1],zz[0],zz[1]  -1.0 1.52219 -2.0 -1.52219 0.0 1 (0.9999999999999997+0j) (0.9999999999999997+0j) 0.25 0.25 0.0 0.0 0.0 0.0
+## V,Omega,Delta,hx,hz,num,nnn,norm,zz_11[num,nnn] -1.0 1.52219 -2.0 -1.52219 0.0 0 0 (0.9999999999999991+0j) 1.2511701169163122e-34
+## V,Omega,Delta,hx,hz,num,nnn,norm,zz_11[num,nnn] -1.0 1.52219 -2.0 -1.52219 0.0 0 1 (0.9999999999999991+0j) 1.251170116916312e-34
+## V,Omega,Delta,hx,hz,num,nnn,norm,zz_11[num,nnn] -1.0 1.52219 -2.0 -1.52219 0.0 0 2 (0.9999999999999991+0j) 1.2511701169163122e-34
+## V,Omega,Delta,hx,hz,num,nnn,norm,zz_11[num,nnn] -1.0 1.52219 -2.0 -1.52219 0.0 0 3 (0.9999999999999991+0j) 1.251170116916312e-34
+## V,Omega,Delta,hx,hz,num,nnn,norm,zz_11[num,nnn] -1.0 1.52219 -2.0 -1.52219 0.0 1 0 (0.9999999999999991+0j) 1.2511701169163122e-34
+## V,Omega,Delta,hx,hz,num,nnn,norm,zz_11[num,nnn] -1.0 1.52219 -2.0 -1.52219 0.0 1 1 (0.9999999999999991+0j) 1.251170116916312e-34
+## V,Omega,Delta,hx,hz,num,nnn,norm,zz_11[num,nnn] -1.0 1.52219 -2.0 -1.52219 0.0 1 2 (0.9999999999999991+0j) 1.2511701169163122e-34
+## V,Omega,Delta,hx,hz,num,nnn,norm,zz_11[num,nnn] -1.0 1.52219 -2.0 -1.52219 0.0 1 3 (0.9999999999999991+0j) 1.251170116916312e-34
+## V,Omega,Delta,hx,hz,num,nnn,norm,xx_11[num,nnn] -1.0 1.52219 -2.0 -1.52219 0.0 0 0 (0.9999999999999991+0j) 0.25
+## V,Omega,Delta,hx,hz,num,nnn,norm,xx_11[num,nnn] -1.0 1.52219 -2.0 -1.52219 0.0 0 1 (0.9999999999999991+0j) 0.25
+## V,Omega,Delta,hx,hz,num,nnn,norm,xx_11[num,nnn] -1.0 1.52219 -2.0 -1.52219 0.0 0 2 (0.9999999999999991+0j) 0.25
+## V,Omega,Delta,hx,hz,num,nnn,norm,xx_11[num,nnn] -1.0 1.52219 -2.0 -1.52219 0.0 0 3 (0.9999999999999991+0j) 0.25
+## V,Omega,Delta,hx,hz,num,nnn,norm,xx_11[num,nnn] -1.0 1.52219 -2.0 -1.52219 0.0 1 0 (0.9999999999999991+0j) 0.25
+## V,Omega,Delta,hx,hz,num,nnn,norm,xx_11[num,nnn] -1.0 1.52219 -2.0 -1.52219 0.0 1 1 (0.9999999999999991+0j) 0.25
+## V,Omega,Delta,hx,hz,num,nnn,norm,xx_11[num,nnn] -1.0 1.52219 -2.0 -1.52219 0.0 1 2 (0.9999999999999991+0j) 0.25
+## V,Omega,Delta,hx,hz,num,nnn,norm,xx_11[num,nnn] -1.0 1.52219 -2.0 -1.52219 0.0 1 3 (0.9999999999999991+0j) 0.25
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,zz -1.0 1.52219 -2.0 -1.52219 0.0 0 2 0 (0.9999999999999996+0j) 1.251170116916312e-34
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,zz -1.0 1.52219 -2.0 -1.52219 0.0 0 3 0 (0.9999999999999993+0j) 0.0
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,zz -1.0 1.52219 -2.0 -1.52219 0.0 0 4 0 (0.9999999999999992+0j) 1.251170116916312e-34
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,zz -1.0 1.52219 -2.0 -1.52219 0.0 0 5 0 (0.999999999999999+0j) 1.251170116916312e-34
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,zz -1.0 1.52219 -2.0 -1.52219 0.0 0 0 2 (0.9999999999999996+0j) 1.251170116916312e-34
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,zz -1.0 1.52219 -2.0 -1.52219 0.0 0 0 3 (0.9999999999999993+0j) 0.0
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,zz -1.0 1.52219 -2.0 -1.52219 0.0 0 0 4 (0.9999999999999992+0j) 1.251170116916312e-34
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,zz -1.0 1.52219 -2.0 -1.52219 0.0 0 0 5 (0.999999999999999+0j) 1.251170116916312e-34
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,zz -1.0 1.52219 -2.0 -1.52219 0.0 1 2 0 (0.9999999999999996+0j) 1.251170116916312e-34
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,zz -1.0 1.52219 -2.0 -1.52219 0.0 1 3 0 (0.9999999999999993+0j) 0.0
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,zz -1.0 1.52219 -2.0 -1.52219 0.0 1 4 0 (0.9999999999999992+0j) 1.251170116916312e-34
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,zz -1.0 1.52219 -2.0 -1.52219 0.0 1 5 0 (0.999999999999999+0j) 1.251170116916312e-34
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,zz -1.0 1.52219 -2.0 -1.52219 0.0 1 0 2 (0.9999999999999996+0j) 1.251170116916312e-34
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,zz -1.0 1.52219 -2.0 -1.52219 0.0 1 0 3 (0.9999999999999993+0j) 0.0
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,zz -1.0 1.52219 -2.0 -1.52219 0.0 1 0 4 (0.9999999999999992+0j) 1.251170116916312e-34
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,zz -1.0 1.52219 -2.0 -1.52219 0.0 1 0 5 (0.999999999999999+0j) 1.251170116916312e-34
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,xx -1.0 1.52219 -2.0 -1.52219 0.0 0 2 0 (0.9999999999999996+0j) 0.25
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,xx -1.0 1.52219 -2.0 -1.52219 0.0 0 3 0 (0.9999999999999993+0j) 0.25
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,xx -1.0 1.52219 -2.0 -1.52219 0.0 0 4 0 (0.9999999999999992+0j) 0.25
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,xx -1.0 1.52219 -2.0 -1.52219 0.0 0 5 0 (0.999999999999999+0j) 0.25
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,xx -1.0 1.52219 -2.0 -1.52219 0.0 0 0 2 (0.9999999999999996+0j) 0.25
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,xx -1.0 1.52219 -2.0 -1.52219 0.0 0 0 3 (0.9999999999999993+0j) 0.25
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,xx -1.0 1.52219 -2.0 -1.52219 0.0 0 0 4 (0.9999999999999992+0j) 0.25
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,xx -1.0 1.52219 -2.0 -1.52219 0.0 0 0 5 (0.999999999999999+0j) 0.25
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,xx -1.0 1.52219 -2.0 -1.52219 0.0 1 2 0 (0.9999999999999996+0j) 0.25
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,xx -1.0 1.52219 -2.0 -1.52219 0.0 1 3 0 (0.9999999999999993+0j) 0.25
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,xx -1.0 1.52219 -2.0 -1.52219 0.0 1 4 0 (0.9999999999999992+0j) 0.25
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,xx -1.0 1.52219 -2.0 -1.52219 0.0 1 5 0 (0.999999999999999+0j) 0.25
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,xx -1.0 1.52219 -2.0 -1.52219 0.0 1 0 2 (0.9999999999999996+0j) 0.25
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,xx -1.0 1.52219 -2.0 -1.52219 0.0 1 0 3 (0.9999999999999993+0j) 0.25
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,xx -1.0 1.52219 -2.0 -1.52219 0.0 1 0 4 (0.9999999999999992+0j) 0.25
+## V,Omega,Delta,hx,hz,num,distx,disty,norm,xx -1.0 1.52219 -2.0 -1.52219 0.0 1 0 5 (0.999999999999999+0j) 0.25
+-1.0 1.52219 -2.0 -1.52219 0.0 -0.26109499999999997 0.5 0.0 0.0 0.0 0.0 -0.5 -0.5
+## indexnum,V,Omega,Delta,hx,hz,ene,mag,ex,ey,mz0,mz1,mx0,mx1 0 -1.0 1.52219 -2.0 -1.52219 0.0 -0.26109499999999997 0.5 0.0 0.0 0.0 0.0 -0.5 -0.5
+## indexnum,V,Omega,Delta,hx,hz,mx,mz,mz0mz1 0 -1.0 1.52219 -2.0 -1.52219 0.0 -0.5 0.0 0.0
+## indexnum,V,Omega,Delta,hx,hz,ave_zz_dist01,ave_zz_dist02,ave_zz_dist03,ave_zz_dist04,ave_zz_dist05,ave_zz_dist11,ave_zz_dist22,ave_zz_dist33 0 -1.0 1.52219 -2.0 -1.52219 0.0 0.0 1.251170116916312e-34 0.0 1.251170116916312e-34 1.251170116916312e-34 1.2511701169163122e-34
+## indexnum,V,Omega,Delta,hx,hz,ave_zz_dist01_c,ave_zz_dist02_c,ave_zz_dist03_c,ave_zz_dist04_c,ave_zz_dist05_c,ave_zz_dist11_c,ave_zz_dist22_c,ave_zz_dist33_c 0 -1.0 1.52219 -2.0 -1.52219 0.0 0.0 1.251170116916312e-34 0.0 1.251170116916312e-34 1.251170116916312e-34 1.2511701169163122e-34
+## indexnum,V,Omega,Delta,hx,hz,ave_xx_dist01,ave_xx_dist02,ave_xx_dist03,ave_xx_dist04,ave_xx_dist05,ave_xx_dist11,ave_xx_dist22,ave_xx_dist33 0 -1.0 1.52219 -2.0 -1.52219 0.0 0.25 0.25 0.25 0.25 0.25 0.25
+## indexnum,V,Omega,Delta,hx,hz,ave_xx_dist01_c,ave_xx_dist02_c,ave_xx_dist03_c,ave_xx_dist04_c,ave_xx_dist05_c,ave_xx_dist11_c,ave_xx_dist22_c,ave_xx_dist33_c 0 -1.0 1.52219 -2.0 -1.52219 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+## time simple update= 3.81469726562e-06
+## time full update= 0.0
+## time environment= 1054.15045595
+## time observable= 755.475897074

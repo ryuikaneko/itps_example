@@ -1,0 +1,8 @@
+D=3
+
+set xrange [0:]
+
+p \
+"dat_mag_D3_hx1.5500" u (D**2*1.0/$2):4 ti "mx", \
+"dat_mag_D3_hx1.5500" u (D**2*1.0/$2):(abs($5)) ti "mz"
+pause -1
