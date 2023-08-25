@@ -1,0 +1,5 @@
+ts=0.005
+
+p \
+"< grep 't,U,mu,z,nocc,ene,ene_t,ene_U,ene_mu' output_phys_quant_* | awk '{print $8}'" u ($0*ts):1
+pause -1

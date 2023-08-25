@@ -1,0 +1,5 @@
+ts=0.005
+
+p \
+"< grep 't,U,mu,z,nocc,num,norm,val_n\\[num\\],val_n2\\[num\\],val_a\\[num\\],val_adag\\[num\\]' output_phys_quant_* | awk '$8==0{print $10}'" u ($0*ts):1
+pause -1

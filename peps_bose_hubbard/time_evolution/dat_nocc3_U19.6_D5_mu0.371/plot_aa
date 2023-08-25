@@ -1,0 +1,8 @@
+ts=0.005
+
+p \
+"< grep 't,U,mu,z,nocc,ave_aadag_dist01,ave_aadag_dist02,ave_aadag_dist03,ave_aadag_dist11,ave_aadag_dist22,ave_aadag_dist33' output_phys_quant_* | awk '{print $8,$9,$10,$11}'" u ($0*ts):1, \
+"" u ($0*ts):2, \
+"" u ($0*ts):3, \
+"" u ($0*ts):4
+pause -1
